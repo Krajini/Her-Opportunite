@@ -29,27 +29,48 @@
 
 Her-Opportunite/
 │
+
 ├── createPost.jsp
+
 ├── deletePost.jsp
+
 ├── editPost.jsp
+
 ├── jobDescription.jsp
+
 ├── login.html
+
 ├── signup.html
+
 ├── home.html
+
 ├── homepage.html
+
 ├── profile.jsp
+
 ├── welcome.html
+
 ├── welcome.jsp
+
 ├── har.jpg, phic.jpg # Media files
+
 │
+
 ├── LoginServlet.java
+
 ├── SignUpServlet.java
+
 │
+
 ├── WEB-INF/
-│ ├── web.xml
-│ └── classes/
-│ ├── LoginServlet.class
-│ └── SignUpServlet.class
+
+   │ ├── web.xml
+
+   │ └── classes/
+   
+      │ ├── LoginServlet.class
+      
+      │ └── SignUpServlet.class
 
 
 
